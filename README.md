@@ -15,7 +15,7 @@ python code/scripts/yolo_label.py
 <br>
 !cd "/content/drive/My Drive/code/scripts"
 <br>
-!python "/content/drive/My Drive/code/scripts/train_yolo.py" --data "/content/drive/My Drive/code/scripts/ball-dataset.yaml" --epochs 10 --save_dir "/content/drive/My Drive/models"
+!python "/content/drive/My Drive/code/scripts/train_yolo.py" --data "/content/drive/My Drive/code/scripts/ball-dataset.yaml" --epochs 50 --save_dir "/content/drive/My Drive/models"
 <br>
 5. Detect track
 <br>
