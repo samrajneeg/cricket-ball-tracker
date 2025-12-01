@@ -2,6 +2,7 @@
 1. Install dependencies
 <br>
 pip install -r requirements.txt
+<br>
 2. Extract frames
 <br>
 python code/scripts/extract_frames.py --input data/raw/match.mp4
