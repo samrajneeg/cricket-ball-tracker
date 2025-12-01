@@ -1,0 +1,7 @@
+path: split
+train: 'train/class0'
+val: 'val/class0'
+ 
+# class names
+names: 
+  0: 'ball'
