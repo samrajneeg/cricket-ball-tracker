@@ -1,7 +1,7 @@
 # cricket-ball-tracker
 <h1>Setup & Usage</h1>
 
-<p>Follow these steps to run the project. Each command is shown in a boxed code block for easy copying.</p>
+<p>Follow these steps to run the project. The data should be present in the data/raw folder with the data folder being at the same level as the code folder.</p>
 
 <ol>
   <li>
